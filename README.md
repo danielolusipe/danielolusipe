@@ -5,6 +5,7 @@ I'm an aeronautical engineering student and also a Machine learning/Deep learnin
 
 
 Find me elsewhere online:
+
 [<img align="left" alt="Olusipe Daniel | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Olusipe Daniel | twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Olusipe Daniel | whatsapp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
