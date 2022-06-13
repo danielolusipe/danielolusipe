@@ -4,7 +4,7 @@
 I'm an aeronautical engineering student who is passionate about writing codes, solving problems and automating stuffs... My interests include artificial intelligence, computer vision, image processing, deep learning, machine learning, data science. I’m looking forward to changing my world using technology to solve the real world task
 
 
-Find me elsewhere online:
+Connect with me:
 
 [<img align="left" alt="Olusipe Daniel | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Olusipe Daniel | twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
