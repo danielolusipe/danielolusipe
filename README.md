@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-I'm an aeronautical engineering student who is passionate about writing code, solving problems, automating stuffs... I'm open to collaborations on machine/deep learning projects
+I'm an aeronautical engineering student who is passionate about writing codes, solving problems and automating stuffs... My interests include artificial intelligence, computer vision, image processing, deep learning, machine learning, data science.
 
 
 Find me elsewhere online:
