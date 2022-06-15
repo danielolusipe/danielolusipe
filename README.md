@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-I'm an aeronautical engineering student who is passionate about writing codes, solving problems and automating stuffs... My interests include artificial intelligence, computer vision, image processing, natural language processing, deep learning, machine learning, data science. I’m looking forward to changing my world using tech to solve the real world task
+I'm an aeronautical engineering student who is passionate about writing codes, solving problems and automating stuffs... My interests include artificial intelligence, computer vision, image processing, natural language processing, object recognition, deep learning, machine learning, data science. I’m looking forward to changing my world using tech to solve the real world task
 
 
 #### Connect with me:
