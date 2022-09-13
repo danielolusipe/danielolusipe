@@ -6,10 +6,10 @@ I'm an aeronautical engineering student who is passionate about writing codes, s
 
 #### Connect with me:
 
-[<img align="left" alt="Olusipe Daniel | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Olusipe Daniel | twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Olusipe Daniel | whatsapp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="Daniel Olusipe | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Daniel Olusipe | twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Daniel Olusipe | whatsapp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
-[linkedin]: https://www.linkedin.com/in/olusipedaniel
-[twitter]: https://www.twitter.com/olusipe_daniel
+[linkedin]: https://www.linkedin.com/in/danielolusipe
+[twitter]: https://www.twitter.com/daniel_olusipe
 [Whatsapp]: https://wa.me/+2349136355052
