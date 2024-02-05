@@ -12,4 +12,4 @@ I'm an aeronautical engineering student who is passionate about writing codes, s
 
 [linkedin]: https://www.linkedin.com/in/danielolusipe
 [twitter]: https://www.twitter.com/daniel_olusipe
-[Whatsapp]: https://wa.me/+2349136355052
+[Whatsapp]: https://wa.me/+2348113708563
